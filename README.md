@@ -1,3 +1,3 @@
 # Object-Tracking-SORT
 
-Detailed description coming soon
+This repo explores the use of deep learning in predicting certain types of objects when a video is given as an input.
